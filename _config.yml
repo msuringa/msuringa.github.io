@@ -1,11 +1,11 @@
 # Site settings
 title: Foobar
 email: me@domain.com
-description: > Just a test
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+description: Just a test
+baseurl: "/yep" # the subpath of your site, e.g. /blog/
+url: "https://msuringa.github.io" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: foo
 github_username: msuringa
 
 # Build settings

@@ -1,7 +1,7 @@
 # Site settings
-title: Foobar
+title: Matty
 email: me@domain.com
-description: Just a test
+description: What was it? High Quality Cloud Computing
 baseurl: "/yep" # the subpath of your site, e.g. /blog/
 url: "https://msuringa.github.io" # the base hostname & protocol for your site
 
